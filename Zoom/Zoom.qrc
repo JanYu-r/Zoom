@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Zoom"/>
+  <qresource prefix="/">
+    <file>res/images/icon/fill_click.png</file>
+    <file>res/images/icon/fill_default.png</file>
+    <file>res/images/icon/zoomIn_click.png</file>
+    <file>res/images/icon/zoomIn_default.png</file>
+    <file>res/images/icon/zoomOut_click.png</file>
+    <file>res/images/icon/zoomOut_default.png</file>
+  </qresource>
+</RCC>
